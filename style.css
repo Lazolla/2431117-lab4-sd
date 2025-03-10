@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+}
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#country-info, #bordering-countries {
+    margin-top: 20px;
+}
+.flag {
+    width: 100px;
+    height: auto;
+}
